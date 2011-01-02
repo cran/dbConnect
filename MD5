@@ -1,0 +1,6 @@
+f70b84198c9a13ee4d5a7ff19e16758e *DESCRIPTION
+8b5f7f33c726d2602289030936aabeff *NAMESPACE
+4a97eafaffcaa111d8e638a1e3bc9658 *R/DatabaseConnector9.R
+aefbdf252f4fc4427368ac149b2089aa *man/DatabaseConnect.Rd
+6a9cb07b6378149bb95f628f403db343 *man/sqlToR.Rd
+2e66488ad1aa8cd840f680fd34e9b9e9 *man/unix2POSIXct.Rd
